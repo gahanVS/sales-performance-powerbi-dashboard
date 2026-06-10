@@ -61,15 +61,15 @@ Tracks returns, delivery delays, and operational risks.
 
 ### Executive Summary
 
-![Executive Summary](screenshots/Executive_Summary.png)
+![Executive Summary](Sales-Performance-Dashboard/screenshots/Executive_Summary.png)
 
 ### Manager Performance
 
-![Manager Performance](screenshots/Manager_Performance.png)
+![Manager Performance](Sales-Performance-Dashboard/screenshots/Manager_Performance.png)
 
 ### Returns & Risk Analysis
 
-![Returns Analysis](screenshots/Returns_Risk.png)
+![Returns Analysis](Sales-Performance-Dashboard/screenshots/Returns_Risk.png)
 
 ## Key Insights
 
